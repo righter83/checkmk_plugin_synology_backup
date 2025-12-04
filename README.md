@@ -192,6 +192,9 @@ GNU General Public License v2
 
 ## Changelog
 
+### Version 1.0.8
+- fixed warning if backup was not running in the configured backup window
+
 ### Version 1.0.7
 - Initial public release
 - WATO Integration
