@@ -192,6 +192,10 @@ GNU General Public License v2
 
 ## Changelog
 
+### Version 1.0.11
+- fixed progress status
+- remove warning while backup rotation
+
 ### Version 1.0.8
 - fixed warning if backup was not running in the configured backup window
 
